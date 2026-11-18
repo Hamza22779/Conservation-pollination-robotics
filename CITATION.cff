@@ -1,0 +1,26 @@
+cff-version: 1.2.0
+message: "If you use these data or code, please cite them as below."
+title: "Autonomous pollination as a plant-conservation technology for pollinator-widowed species, genetic rescue and crop wild relatives: data, code and figures"
+type: dataset
+authors:
+  - family-names: Manzoor
+    given-names: Shahram Hamza
+    affiliation: "College of Engineering, China Agricultural University"
+  - family-names: Zhang
+    given-names: Zhao
+    affiliation: "College of Engineering, China Agricultural University"
+    email: zhaozhangcau@cau.edu.cn
+  - family-names: Ahmed
+    given-names: Arshed
+    affiliation: "College of Engineering, China Agricultural University"
+date-released: 2026-11-18
+version: 1.0.0
+license: MIT
+repository-code: "https://github.com/<your-username>/conservation-pollination-robotics"
+keywords:
+  - robotic pollination
+  - plant conservation
+  - pollen limitation
+  - genetic rescue
+  - crop wild relatives
+  - systematic map

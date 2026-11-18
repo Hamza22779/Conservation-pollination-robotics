@@ -1,0 +1,15 @@
+{
+ "T": 50,
+ "N0": 20,
+ "K": 50,
+ "survival": 0.9,
+ "recruit_per_success": 0.15,
+ "visit_prob": 0.35,
+ "neighbour_k": 2,
+ "access_frac": 0.4,
+ "n_loci": 30,
+ "n_alleles": 8,
+ "n_S": 6,
+ "reps": 300,
+ "seed": 2026
+}
